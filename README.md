@@ -1,44 +1,49 @@
-# SENAI Java Projects ☕
+# SENAI Java Projects
 
-Collection of Java projects and exercises built during my software development studies at SENAI.
+A collection of Java projects and exercises developed during my software development studies at SENAI.
 
-## Topics Covered 📚
+This repository brings together small programs, console projects, and practice exercises focused on building a solid foundation in Java.
+
+## About
+
+The projects in this repository were created to practice important programming concepts, from basic syntax to object-oriented programming.
+
+Most examples are simple and focused on learning, using console input and output to understand how Java works in practice.
+
+## Topics
+
+This repository includes:
 
 - Java fundamentals
-- Conditional structures
-- Loops and repetition
-- Object-oriented programming
-- Access modifiers
-- Console-based mini projects
+- conditional structures
+- loops and repetition
+- methods
+- console-based projects
+- object-oriented programming
+- access modifiers
+- inheritance
+- encapsulation
 
-## Repository Structure 📁
+## Featured projects
 
-    senai-java-projects/
-    ├── fundamentals/
-    ├── conditionals/
-    ├── loops/
-    ├── mini-projects/
-    ├── oop/
-    └── access-modifiers/
+- banking system console
+- Java converter
+- accounts and clients project
+- Java calculator
 
-## Featured Projects ⭐
-
-- Sistema Bancário Console
-- Conversor Java
-- Contas e Clientes (OOP)
-- Calculadora Java
-
-## Technologies & Concepts ⚙️
+## Technologies
 
 - Java
 - Scanner
-- Conditionals
-- Loops
-- Methods
-- Object-Oriented Programming
-- Inheritance
-- Encapsulation
+- object-oriented programming
+- console applications
 
-## Purpose 🚀
+## Important note
 
-This repository represents part of my learning journey and my foundation in Java development.
+This repository is focused on study and practice.
+
+The projects are simple and were created as part of my learning process, so they are not production-ready applications.
+
+## Status
+
+Currently used as a learning repository for Java exercises and mini projects.
